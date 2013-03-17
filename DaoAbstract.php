@@ -1,7 +1,5 @@
 <?php
 
-//namespace Ambaz\classes\Dao;
-
 /**
  * Base class for the data access object entities
  *
